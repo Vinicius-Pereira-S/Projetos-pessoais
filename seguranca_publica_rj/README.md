@@ -75,7 +75,7 @@ A aba final apresenta um **mapa do estado do RJ** com a distribuição geográfi
 
 ## 📁 Arquivo
 
-O arquivo `.pbix` com o dashboard completo está disponível neste repositório. [Clique aqui para baixar o arquivo .pbix](./seg_publica_rj.pbix).
+O arquivo `.pbix` com o dashboard completo está disponível neste repositório OU [Clique aqui para baixar o arquivo .pbix](./seg_publica_rj.pbix).
 
 ---
 
