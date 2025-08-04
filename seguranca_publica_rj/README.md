@@ -66,6 +66,14 @@ A aba final apresenta um **mapa do estado do RJ** com a distribuição geográfi
 
 ---
 
+## 🖼️ Prévia do Dashboard
+
+Abaixo, algumas capturas de tela do dashboard desenvolvido no Power BI:
+
+![Mapa Geográfico](./imagens/Criminalidade RJ - Mapa)
+
+---
+
 ## 🛠️ Ferramentas e Tecnologias Utilizadas
 
 - **Power BI** – Modelagem, visualizações e DAX  
