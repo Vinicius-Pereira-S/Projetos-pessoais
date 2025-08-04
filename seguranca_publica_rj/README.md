@@ -70,11 +70,11 @@ A aba final apresenta um **mapa do estado do RJ** com a distribuição geográfi
 
 Abaixo, algumas capturas de tela do dashboard desenvolvido no Power BI:
 
-[Criminalidade RJ - Índice](./imagens/Criminalidade%20RJ%20-%20Índice.jpg)
-[Criminalidade RJ - Roubos](./imagens/Criminalidade%20RJ%20-%20Roubos.jpg)
-[Criminalidade RJ - Furtos](./imagens/Criminalidade%20RJ%20-%20Furtos.jpg)
-[Criminalidade RJ - Crimes violentos](./imagens/Criminalidade%20RJ%20-%20Crimes%20violentos.jpg)
-[Criminalidade RJ - Mapa](./imagens/Criminalidade%20RJ%20-%20Mapa.jpg)
+-[Criminalidade RJ - Índice](./imagens/Criminalidade%20RJ%20-%20Índice.jpg)  
+-[Criminalidade RJ - Roubos](./imagens/Criminalidade%20RJ%20-%20Roubos.jpg)  
+-[Criminalidade RJ - Furtos](./imagens/Criminalidade%20RJ%20-%20Furtos.jpg)  
+-[Criminalidade RJ - Crimes violentos](./imagens/Criminalidade%20RJ%20-%20Crimes%20violentos.jpg)  
+-[Criminalidade RJ - Mapa](./imagens/Criminalidade%20RJ%20-%20Mapa.jpg)
 
 ---
 
